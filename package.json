@@ -1,0 +1,16 @@
+{
+  "name": "retry-axios-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "yarn test --watchAll"
+  },
+  "dependencies": {
+    "axios": "^0.19.1",
+    "axios-retry": "^3.1.2",
+    "jest": "^24.9.0",
+    "nock": "^11.7.2",
+    "retry-axios": "^2.1.1"
+  }
+}
